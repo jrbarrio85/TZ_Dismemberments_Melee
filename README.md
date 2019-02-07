@@ -37,7 +37,6 @@ Firearms Edition:
 -Chaingun (5mm)- 25% chance to dismember limbs
 -M249 SAW (5.56x45mm) - 25% chance to dismember limbs
 
-
 FUN FACT: You can now dismember all limbs on a zombie and keep it alive with only its head and torso! It will still bite you if you get near its head!
 
 NOTE: I left some xpaths in there, commented out, to add dismemberment to explosives but don't know how to get it to work as an "area of effect". The rocket was left out because dismemberment would have to be a direct hit to the head/limb to work.
