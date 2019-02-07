@@ -2,13 +2,10 @@
 
 
 INSTALL: unzip and place JRB_TraditionalZombies_Headshots folder into the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
-
 UNINSTALL: delete JRB_TraditionalZombies_Headshots folder from the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
 
 NEW - You now dismember heads with headshots and can dismember limbs with certain tools/weapons. A big thanks to drconfused1 for bringing this idea to my attention.
-
 NEW - New version that works with Firearms mod by Mayic.
-
 NEW - 2 new version that only apply dismemberments to guns and bows (projectiles). One for vanilla, the other for Firearms mod by Mayic.
 
 NOTE: Pairs well with More Zombies per Biome (x2 x4 x8 x16) A17
