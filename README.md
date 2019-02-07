@@ -5,6 +5,21 @@ INSTALL: unzip and place JRB_TraditionalZombies_Headshots folder into the Mods f
 
 UNINSTALL: delete JRB_TraditionalZombies_Headshots folder from the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
 
+Version A17.1-b9v4
+-Fixed vomit from getting headshot dismemberment effect
+-Added Headshots Firearms Edition file for compatibility with the Firearms mod by Mayic
+
+Version A17.1-b9v3
+-Changed from damage based to dismemberment chance based.
+-Added dismemberment to limbs for certain weapons and tools
+-Removed Boom Headshot perk
+
+Version A17.1-b9v2
+-Removed partial xpath that was meant to be deleted, causing errors.
+
+Version A17.1-b9v1
+-Initial upload
+
 NEW - You now dismember heads with headshots and can dismember limbs with certain tools/weapons. A big thanks to drconfused1 for bringing this idea to my attention.
 
 NEW - New version that works with Firearms mod by Mayic.
