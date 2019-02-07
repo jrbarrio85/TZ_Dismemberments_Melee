@@ -1,0 +1,6 @@
+<TraditionalZombies_Headshots>
+
+<!-- Remove Boom Headshot perk -->
+	<remove xpath="/progression/perks/perk[@name='perkHeadshot']" />
+	
+</TraditionalZombies_Headshots>
