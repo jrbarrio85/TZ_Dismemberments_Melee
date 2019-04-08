@@ -1,0 +1,51 @@
+<TZ_Dismemberments_Melee>
+
+<!-- Melee Weapons -->
+
+<!-- Hunting Knife -->
+	<append xpath="/items/item[@name='meleeToolHuntingKnife']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>	
+<!-- Iron Club -->
+	<append xpath="/items/item[@name='meleeClubIron']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>	
+<!-- Machete -->
+	<append xpath="/items/item[@name='meleeToolMachete']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head,leg,arm"/>
+	</append>
+
+
+	
+<!-- Tools -->
+
+<!-- Iron Pickaxe -->
+	<append xpath="/items/item[@name='meleeToolPickaxeIron']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- Steel Pickaxe -->
+	<append xpath="/items/item[@name='meleeToolPickaxeSteel']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- Iron Fireaxe -->
+	<append xpath="/items/item[@name='meleeToolFireaxeIron']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head,leg,arm"/>
+	</append>
+<!-- Steel Fireaxe -->
+	<append xpath="/items/item[@name='meleeToolFireaxeSteel']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head,leg,arm"/>
+	</append>
+<!-- Sledgehammer -->
+	<append xpath="/items/item[@name='meleeToolSledgehammer']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- Chainsaw -->
+	<append xpath="/items/item[@name='meleeToolChainsaw']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head,leg,arm"/>
+	</append>
+<!-- Auger -->
+	<append xpath="/items/item[@name='meleeToolAuger']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+	
+</TZ_Dismemberments_Melee>
