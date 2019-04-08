@@ -1,4 +1,4 @@
-# TraditionalZombies_Headshots
+# TZ_Dismemberments_Melee
 
 
 INSTALL: unzip and place JRB_TZ_Dismemberments folder into the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
